@@ -21,7 +21,7 @@ $GitLabOauth2->setConfig([
     'app_id' => 'APP_ID',
     'app_secret' => 'APP_SECRET',
     'redirect_uri' => 'http://localhost/test.php',
-    'state' => 'TU_SECURE_STATE',
+    'state' => 'SECURE_STATE',
     'scopes' => 'api', // string or array ['read_user', 'profile']
     // 'domain' => 'https://my_gitlab.example.tld' // Defaul https://gitlab.com
 ]);
