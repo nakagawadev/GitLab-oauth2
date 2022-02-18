@@ -140,5 +140,5 @@ if(!empty($_SESSION['GitLabOauth2'])) {
 </div>
 ```
 
-### Licencia
+### License
 GitLab Oauth2 is [MIT](https://github.com/nakagawadev/GitLab-oauth2/blob/main/LICENSE) licensed.
