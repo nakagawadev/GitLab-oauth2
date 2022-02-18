@@ -1,0 +1,21 @@
+{
+    "name": "nakagawadev/gitlab-oauth2",
+    "description": "PHP client for gitlab ouath2",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nakagawadev",
+            "email": "jonnakagawadev@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.1.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "nakagawadev\\": "src/"
+        }
+    }
+}
